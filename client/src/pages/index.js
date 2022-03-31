@@ -1,0 +1,5 @@
+export {default as Home} from "./Home.jsx"
+export {default as Cryptocurrencies} from "./Cryptocurrencies.jsx"
+export {default as News} from "./News.jsx"
+export {default as Exchange} from "./Exchange.jsx"
+export {default as LandingPage} from "./LandingPage.jsx"
